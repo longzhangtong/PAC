@@ -14217,5 +14217,5 @@ var WHITEPAT = [
   "http://translate.google.cn*",
   "http://www.google.cn/maps*",
   "http://ime.baidu.jp*",
-  "*.smtcdns.com",
+  "*.smtcdns.com/*",
 ];

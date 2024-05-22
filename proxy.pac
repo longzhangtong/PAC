@@ -14216,5 +14216,6 @@ var WHITEPAT = [
   "http://nrch.culture.tw/*",
   "http://translate.google.cn*",
   "http://www.google.cn/maps*",
-  "http://ime.baidu.jp*"
+  "http://ime.baidu.jp*",
+  "*.smtcdns.com",
 ];

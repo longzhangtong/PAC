@@ -37,7 +37,7 @@ function FindProxyForURL(url, host) {
    shExpMatch()
 */
 
-var proxy = "PROXY 192.168.50.254:3128";
+var proxy = 'PROXY 127.0.0.1:7890';
 var direct = "DIRECT";
 
 function belongsToSubnet(host, list) {
